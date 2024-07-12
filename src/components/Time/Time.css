@@ -1,0 +1,25 @@
+.time {
+    text-align: center;
+    padding: 32px;
+    position: relative;
+}
+
+.time h3 {
+    font-size: 32px;
+    display: inline-block;
+    padding-bottom: 8px;
+    border-bottom: 4px solid;
+}
+
+.time .colaboradores {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
+
+.input-cor {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
