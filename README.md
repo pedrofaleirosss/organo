@@ -1,4 +1,4 @@
-# 📁 Organo - Organize seus times e colaboradores de forma prática
+# 📁 Organo - Organize seus times e colaboradores de forma prática e visual
 
 ![Banner do projeto](public/img/banner.png)
 
